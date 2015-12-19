@@ -1,0 +1,10 @@
+C:\Users\michael\Documents\.net Projects\MikePortfolio\MikePortfolio.Data\bin\Debug\MikePortfolio.Data.dll.config
+C:\Users\michael\Documents\.net Projects\MikePortfolio\MikePortfolio.Data\bin\Debug\MikePortfolio.Data.dll
+C:\Users\michael\Documents\.net Projects\MikePortfolio\MikePortfolio.Data\bin\Debug\MikePortfolio.Data.pdb
+C:\Users\michael\Documents\.net Projects\MikePortfolio\MikePortfolio.Data\bin\Debug\EntityFramework.dll
+C:\Users\michael\Documents\.net Projects\MikePortfolio\MikePortfolio.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\michael\Documents\.net Projects\MikePortfolio\MikePortfolio.Data\bin\Debug\EntityFramework.xml
+C:\Users\michael\Documents\.net Projects\MikePortfolio\MikePortfolio.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\michael\Documents\.net Projects\MikePortfolio\MikePortfolio.Data\obj\Debug\MikePortfolio.Data.csprojResolveAssemblyReference.cache
+C:\Users\michael\Documents\.net Projects\MikePortfolio\MikePortfolio.Data\obj\Debug\MikePortfolio.Data.dll
+C:\Users\michael\Documents\.net Projects\MikePortfolio\MikePortfolio.Data\obj\Debug\MikePortfolio.Data.pdb
